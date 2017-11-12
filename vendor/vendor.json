@@ -1,0 +1,48 @@
+{
+  "comment": "",
+  "ignore": "test",
+  "package": [{
+      "checksumSHA1": "40Ns85VYa4smQPcewZ7SOdfLnKU=",
+      "path": "github.com/fatih/structs",
+      "revision": "a720dfa8df582c51dee1b36feabb906bde1588bd",
+      "revisionTime": "2017-01-03T08:10:50Z"
+    },
+    {
+      "checksumSHA1": "MrWeI6MXZ81AL7bbf4+iD7B4N/Y=",
+      "path": "github.com/go-playground/locales",
+      "revision": "084b0226cf88d891a2bdeccac01d592af13a8f7b",
+      "revisionTime": "2017-02-22T17:31:50Z"
+    },
+    {
+      "checksumSHA1": "YWIa2z/i81ttb1Db9fm95XnIgwI=",
+      "path": "github.com/go-playground/locales/currency",
+      "revision": "084b0226cf88d891a2bdeccac01d592af13a8f7b",
+      "revisionTime": "2017-02-22T17:31:50Z"
+    },
+    {
+      "checksumSHA1": "9pKcUHBaVS+360X6h4IowhmOPjk=",
+      "path": "github.com/go-playground/universal-translator",
+      "revision": "b32fa301c9fe55953584134cb6853a13c87ec0a1",
+      "revisionTime": "2017-02-09T16:11:52Z"
+    },
+    {
+      "checksumSHA1": "beJZLy93hglM4ifqPmPlMhE7r1E=",
+      "path": "github.com/sirupsen/logrus",
+      "revision": "547e984ad93a90192134fc0fdb57a468edb514fe",
+      "revisionTime": "2017-03-15T15:13:20Z"
+    },
+    {
+      "checksumSHA1": "/oZpHfYc+ZgOwYAhlvcMhmETYpw=",
+      "path": "golang.org/x/sys/unix",
+      "revision": "99f16d856c9836c42d24e7ab64ea72916925fa97",
+      "revisionTime": "2017-03-08T15:04:45Z"
+    },
+    {
+      "checksumSHA1": "1cdPbaEMny2XLiMQe8F5mB9LGyE=",
+      "path": "gopkg.in/go-playground/validator.v9",
+      "revision": "4bd19358521c53f09639f21e2a9d6883d6890f24",
+      "revisionTime": "2017-02-24T17:48:26Z"
+    }
+  ],
+  "rootPath": "github.com/goofansu/go-tlog"
+}
