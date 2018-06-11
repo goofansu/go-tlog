@@ -17,7 +17,7 @@ TLOG工具库
 ### tlogrus（生成TLOG格式的日志）
 1. 提供`tlogrus.Log(event interface{})`接口，任何struct都可记录成TLOG格式数据。
 2. 安装: `go get github.com/goofansu/go-kit/tlogrus`
-3. 使用方法：参见[examples/basic.go](https://github.com/goofansu/go-tlog/src/master/examples/basic/basic.go)
+3. 使用方法：参见[examples/basic.go](https://github.com/goofansu/go-tlog/blob/master/examples/basic/basic.go)
 
 生成的日志格式如下：
 ```bash
