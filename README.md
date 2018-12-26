@@ -10,7 +10,7 @@ TLOG工具库
 2. 生成的可执行文件在`dist`文件夹
 
 ### 使用可执行文件tlog（xml转换为go代码）
-1. 在[Releases](https://github.com/goofansu/go-tlog/releases)中下载对应平台的可执行文件
+1. 下载对应平台的可执行文件
 2. `tlog`默认根据腾讯方提供的`tlog.xml`生成`tlogevt.go`，更多设置参见`tlog -h`
 3. `tlogevt.go`中，指针表示必填项，其他表示可选项
 
